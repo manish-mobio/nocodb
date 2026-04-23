@@ -1,0 +1,12 @@
+=========Extracted points to be consider
+
+
+
+MVPs
+used for Small apps mostly
+not too much usefull for Non-technical teams but it documentation said helping to non-tech persons
+Fast development
+not too much serious about system eng. or arch.
+share dashboard ,alert & notification mail send
+only work with below db (build for sql db only)
+provide MCP connection
