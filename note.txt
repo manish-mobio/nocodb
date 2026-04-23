@@ -1,7 +1,7 @@
 =========Extracted points to be consider
 
 
-
+even Database connected we have to import tables manually
 MVPs
 used for Small apps mostly
 not too much usefull for Non-technical teams but it documentation said helping to non-tech persons
